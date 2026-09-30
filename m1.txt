@@ -1,1 +1,2 @@
 this is m1.txt in merging folder
+updated to show the flow of ort-strategy
