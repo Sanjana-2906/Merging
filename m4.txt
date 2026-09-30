@@ -1,3 +1,4 @@
 this is m4.txt in merging folder
 fast-forward
 ort-strategy
+updated to c the ort-strategy
